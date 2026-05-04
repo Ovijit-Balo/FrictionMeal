@@ -1,7 +1,7 @@
 # FrictionMeal: Friction for Better Choices
 
 FrictionMeal is a friction-first nutrition app built around a simple stance: not every decision should be instant.
-When the day is trending off-track, the app intentionally slows the logging flow with a 10-second Smart Pause,
+When the day is trending off-track, the app intentionally slows the logging flow with a 15-second Smart Pause,
 reflection prompt, and healthier swap suggestions so users make conscious decisions instead of impulsive ones.
 
 Stack: Next.js 16 + React 19 + MongoDB.
